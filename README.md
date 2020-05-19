@@ -1,5 +1,5 @@
 ## Project 1: Data Modeling with Postgres
-Udacity Data Engineer 
+Udacity Data Engineer     
 Here's a [guide](https://www.markdownguide.org/basic-syntax/) on Markdown Syntax.
 
 ### Introduction
